@@ -5,10 +5,10 @@ This scripts only supports Python 2.7
 
 ### Input data format -- Input file (Example)
 
-	id: Pollito
-	color: Amarillo
+	id: Culebra
+	color: Verde
 	edad: 4
-	skill: Volador
+	skill: Veneno
 
 	id: Tortuga
 	skill: Agua
@@ -16,7 +16,7 @@ This scripts only supports Python 2.7
 ## Output data format -- Output file (Example)
 
 	skill_0,id_0,color_0,edad_0
-	Volador,Pollito,Amarillo,4
+	Veneno,Culebra,Verde,4
 	Agua,Tortuga,,
 
 
